@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# PyCharm
+.idea/
+
+# TD3 model checkpoints and logs
+tmp/
+runs/
+logs/
+*.pth
+*.pt
+
+# System files
+.DS_Store

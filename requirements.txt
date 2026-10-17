@@ -1,0 +1,15 @@
+gym==0.26.2
+pybullet==3.2.7
+matplotlib==3.11.2
+tensorboard==2.21.0
+robosuite==1.5.2
+termcolor==3.3.0
+h5py==3.16.0
+numpy>=1.22.0
+gymnasium==1.4.0
+
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
